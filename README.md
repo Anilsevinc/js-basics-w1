@@ -1,5 +1,5 @@
 
-```markdown
+
 # JavaScript Temel Çalışmalar
 
 Bu repo, JavaScript temel konular üzerinde yapılan çalışmaları içerir.  
@@ -76,8 +76,5 @@ console.log(tutar); // Toplam bağış tutarını döndürür
 
 * Tüm fonksiyonlar **modüler** şekilde `lib` klasöründe yer almaktadır.
 * JavaScript mantıkları ve fonksiyon yazımı üzerinde pratik yapılmıştır.
-
 ---
-
-```
 
